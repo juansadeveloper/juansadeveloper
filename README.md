@@ -1,4 +1,4 @@
-## Hello World 👋   I'm Santiago, a Full-Stack Web Developer 💻 - Active & Learning since 2021 🚀  
+## Hello World 👋   I'm Santiago, a Full-Stack Web Developer 💻 - Active since 2021 🚀  
   
 
 <b>I'm a Developer & Designer with a passion for turning creative ideas into smart web solutions.</b> The tech world offers endless possibilities, and I love diving into new projects, researching, and brainstorming to craft beautiful designs and efficient systems.   
