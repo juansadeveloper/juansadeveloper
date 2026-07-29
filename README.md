@@ -8,16 +8,16 @@
 
 
 
-- 💼 My first work was [Complejo Nuevo Aire](www.nuevoaire.com.ar)
+- 💼 My first app was [Zentia](www.zentiaapp.com)
   
 
-- 🧑🏻‍💻 I’m currently working on [RestaurantJobs](https://restaurant-jobs-platform.vercel.app/) (Indie Start Up)  
+- 🧑🏻‍💻 I’m currently working on [RestaurantJobs]([https://restaurant-jobs-ivory.vercel.app/]) (Indie Start Up)  
   
 
 - ⚡ I’m looking to collaborate on Full-Stack Projects with profitable potential  
   
 
-- 🌱 I’m currently learning Express.js & PostgreSQL  
+- 🌱 I’m currently using Cursor   
   
 
 #### 📨 You can reach me at juansapereira@icloud.com  
