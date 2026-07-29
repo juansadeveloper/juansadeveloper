@@ -8,7 +8,7 @@
 
 
 
-- 💼 My first app was Zentia (https://restaurant-jobs-ivory.vercel.app/)
+- 💼 My first app was Zentia (https://www.zentiaapp.com/)
   
 
 - 🧑🏻‍💻 I’m currently working on [RestaurantJobs](https://restaurant-jobs-ivory.vercel.app/) (Indie Start Up)  
