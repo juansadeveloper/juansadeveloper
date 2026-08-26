@@ -17,7 +17,7 @@
 - ⚡ I’m looking to collaborate on Full-Stack Projects with profitable potential  
   
 
-- 🌱 I’m currently using Cursor, Antigravity, ChatGPT, Gemini depending what fits better for the task/project.   
+- 🛠️ I’m currently using Cursor, Antigravity, ChatGPT, Gemini depending what fits better for the task/project.   
   
 
 #### 📨 You can reach me at juansapereira@icloud.com  
