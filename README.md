@@ -1,7 +1,7 @@
 ## Hello World 👋   I'm Santiago, a Full-Stack Web Developer 💻 - Active since 2021 🚀  
   
 
-<b>I'm a Developer & Designer with a passion for turning creative ideas into smart web solutions.</b> The tech world offers endless possibilities, and I love diving into new projects, researching, and brainstorming to craft beautiful designs and efficient systems.   
+<b>AI-Assisted Product Builder | React, Next.js, React Native, Expo & Supabase | Creator of Zentia  
   
 
 💬 I'm excited to be part of this world and always ready to transform ideas into practical solutions.  
@@ -17,7 +17,7 @@
 - ⚡ I’m looking to collaborate on Full-Stack Projects with profitable potential  
   
 
-- 🌱 I’m currently using Cursor   
+- 🌱 I’m currently using Cursor, Antigravity, ChatGPT, Gemini depending what fits better for the task/project.   
   
 
 #### 📨 You can reach me at juansapereira@icloud.com  
