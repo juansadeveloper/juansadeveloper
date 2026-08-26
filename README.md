@@ -1,4 +1,5 @@
-## Hello World 👋   I'm Santiago, a Full-Stack Developer 💻 - Active since 2021 🚀  
+## Hello World 👋   
+I'm Santiago, a Full-Stack Developer, active since 2021 🚀  
   
 
 <b>AI-Assisted Product Builder | React, Next.js, React Native, Expo & Supabase | Creator of Zentia  <br/> 
